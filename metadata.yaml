@@ -1,0 +1,41 @@
+_repo: Kristiina-Lauritsantytar-2-of-3-Emanta_62523
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Siegberg, Siiri
+    birthdate: 1890
+    deathdate: 1940
+    gutenberg_agent_id: '47324'
+    url: http://www.gutenberg.org/2009/agents/47324
+    wikipedia: https://fi.wikipedia.org/wiki/Siiri_Siegberg
+creator:
+  author:
+    agent_name: Undset, Sigrid
+    aliases:
+    - Unset, Sigrid
+    - Svarstad, Sigrid Undset
+    birthdate: 1882
+    deathdate: 1949
+    gutenberg_agent_id: '35742'
+    url: http://www.gutenberg.org/2009/agents/35742
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Sigrid_Undset
+    - https://fi.wikipedia.org/wiki/Sigrid_Undset
+    - https://no.wikipedia.org/wiki/Sigrid_Undset
+description: 'Translation of Kristin Lavransdatter: Husfrue'
+gutenberg_issued: '2020-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62523'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norway -- Social life and customs -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Women -- Norway -- Fiction'
+- !lcsh 'Historical fiction'
+- GITenberg
+title: 'Kristiina Lauritsantytär 2 (of 3): Emäntä'
+url: http://www.gutenberg.org/ebooks/62523
